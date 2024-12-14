@@ -106,7 +106,7 @@ def InterpolationSearch(arr, element):
     return "Элемент не найден"
 
 
-
+#Практическая часть
 random.seed(1)
 size=[]
 n=1000000
